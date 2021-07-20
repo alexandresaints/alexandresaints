@@ -1,13 +1,13 @@
 ### Olá! Me chamo Alexandre Saints! 👋
 
-Sou desenvolvedor Full Stack e busco ajudar os outros a fazerem o mesmo.
+Um software developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **SEU NOME** {
+object DEVELOPER {
  val name = "ALEXANDRE SAINTS"
  val acknowledgements = "WEB-DEVELOPER-FULL-STACK"
  
