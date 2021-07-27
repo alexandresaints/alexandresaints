@@ -12,7 +12,7 @@ object DEVELOPER {
  val acknowledgements = "WEB-DEVELOPER-FULL-STACK"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Web", "JavaScript", "PHP", "MySQL", "Git") 
+ val languages = listOf("JavaScript", "PHP", "MySQL", "Git") 
 
 }
 ```
