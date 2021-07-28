@@ -40,7 +40,7 @@ class = developer
 </a>
 <br>
 
-## **Me encontre lá também:**
+## **Vamos nos Conectar:**
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/alexandre-santos-3036601b1/" alt="Linkedin">
