@@ -41,16 +41,13 @@ object DEVELOPER {
 ## **Me encontre lá também:**
 
 <p align="left">
-  <a target=_blank href="https://www.linkedin.com/in/alexandre-santos-3036601b1/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/alexandre-santos-3036601b1/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <a target=_blank href="=https://www.facebook.com/alexandresaints13/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link"/></a>
-
-  <a target=_blank href="https://www.instagram.com/alexandresaintss/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="/></a>
+  <a target="_blank" href="https://www.instagram.com/alexandresaintss/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-   <a target=_blank href="mailto:alexandresaintss@gmail.com" alt="Gmail">
+   <a target="_blank" href="mailto:alexandresaintss@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
 <br>
