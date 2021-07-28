@@ -32,6 +32,10 @@ class = developer
 
 </div>
 
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandresaints&show_icons=true&theme=dracula&line_height=27" alt="alexandresaints github stats"/>
+</a>
+
 ## **Vamos nos Conectar:**
 
 <p align="left">
