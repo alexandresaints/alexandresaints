@@ -15,10 +15,7 @@ class = developer
  
  $abilities = "ALGUMAS HABILIDADES";
  $languages = array("JavaScript", "PHP", "MySQL", "Git");
-   public static function languages() {
-    $result = array_merge($abilities, $languages);
-    };
-   };
+ };
    echo $developer."\n";
 ?>
 ```
