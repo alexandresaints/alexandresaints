@@ -51,8 +51,7 @@ object DEVELOPER {
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="/></a>
  
    <a target=_blank href="mailto:alexandresaintss@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/>
- </a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <br>
  E ah, antes que eu me esqueça, meu Discord é Alexandre Saints #0214
 </p>  
