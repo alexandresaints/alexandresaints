@@ -14,12 +14,12 @@ class = developer
  $acknowledgements = "WEB-DEVELOPER-FULL-STACK";
  
  $abilities = "ALGUMAS HABILIDADES";
- const languages = ["JavaScript", "PHP", "MySQL", "Git"];
+ $languages = array("JavaScript", "PHP", "MySQL", "Git");
    public static function languages() {
-    return self::languages
+    $result = array_merge($abilities, $languages);
     };
    };
-   echo developer;
+   echo $developer."\n";
 ?>
 ```
 
