@@ -30,10 +30,10 @@ class = developer
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/css3-plain.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
 
-</div>
+</div><br>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandresaints&show_icons=true&theme=dracula&line_height=27" alt="alexandresaints github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1" />
 </a>
 
 ## **Vamos nos Conectar:**
