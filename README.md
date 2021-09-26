@@ -14,7 +14,7 @@ class = developer
  $acknowledgements = "WEB-DEVELOPER-FULL-STACK";
  
  $abilities = "ALGUMAS HABILIDADES";
- $languages = array("JavaScript", "PHP", "MySQL", "Git");
+ $languages = array("JavaScript", "PHP", "MySQL");
  };
    echo $developer."\n";
 ?>
