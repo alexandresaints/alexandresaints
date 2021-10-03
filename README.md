@@ -6,18 +6,12 @@ Um software developer apaixonado por tecnologia, buscando transformar sonhos em 
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```php
-<?php
-class = developer 
-{
- $name = "ALEXANDRE SAINTS";
- $acknowledgements = "WEB-DEVELOPER-FULL-STACK";
- 
- $abilities = "ALGUMAS HABILIDADES";
- $languages = array("JavaScript", "PHP", "MySQL");
- };
-   echo $developer."\n";
-?>
+```javascript
+const developer = require('Alexandre')
+let webDeveloper = {nome:"Alexandre", stack:"Full-Stack Developer"}
+
+console.log(webDeveloper)
+
 ```
 
 ## **Linguagens e Ferramentas:**  
