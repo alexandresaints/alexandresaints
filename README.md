@@ -8,6 +8,7 @@ Um software developer apaixonado por tecnologia, buscando transformar sonhos em 
 
 ```javascript
 const developer = require('Alexandre')
+
 let webDeveloper = {nome:"Alexandre", stack:"Full-Stack Developer"}
 
 console.log(webDeveloper)
