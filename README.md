@@ -8,16 +8,15 @@ Um software developer apaixonado por tecnologia, buscando transformar sonhos em 
 
 ```javascript
 const express = require('express')
-const developer = require('Alexandre')
 const app = express()
 
-let webDeveloper = {"name":"Alexandre", "stack":"Full-Stack-Developer"}
+let webDeveloper = {name:"Alexandre", stack:"Full-Stack-Developer"}
 
 app.get('/', (req, res) =>{
   return res.send(webDeveloper)
-}
+}),
 
-app.listen(3000, =>{
+app.listen(3000, () =>{
   console.log("Initing code...")
 })
 
