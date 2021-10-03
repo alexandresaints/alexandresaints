@@ -7,11 +7,19 @@ Um software developer apaixonado por tecnologia, buscando transformar sonhos em 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```javascript
+const express = require('express')
 const developer = require('Alexandre')
+const app = express()
 
-let webDeveloper = {nome:"Alexandre", stack:"Full-Stack Developer"}
+let webDeveloper = {"name":"Alexandre", "stack":"Full-Stack-Developer"}
 
-console.log(webDeveloper)
+app.get('/', (req, res) =>{
+  return res.send(webDeveloper)
+}
+
+app.listen(3000, =>{
+  console.log("Initing code...")
+})
 
 ```
 
