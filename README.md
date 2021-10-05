@@ -1,4 +1,4 @@
-### Olá! Me chamo Alexandre Saints! 👋
+### Olá! Me chamo Alexandre! 👋
 
 Um software developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
 
