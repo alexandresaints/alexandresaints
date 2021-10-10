@@ -10,7 +10,7 @@ Um software developer apaixonado por tecnologia, buscando transformar sonhos em 
 const express = require('express')
 const app = express()
 
-let webDeveloper = {name:"Alexandre", stack:"Full-Stack-Developer"}
+const webDeveloper = {name:"Alexandre", stack:"Full-Stack-Developer"}
 
 app.get('/', (req, res) =>{
   return res.send(webDeveloper)
