@@ -9,11 +9,12 @@ Um software developer apaixonado por tecnologia, buscando transformar sonhos em 
 ```javascript
 const express = require('express')
 const app = express()
+app.use(express.json())
 
 const webDeveloper = {name:"Alexandre", stack:"Full-Stack-Developer"}
 
-app.get('/', (req, res) =>{
-  return res.send(webDeveloper)
+app.get('/', (req, res) => {
+  return res.json(webDeveloper)
 }),
 
 app.listen(3000, () =>{
